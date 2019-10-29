@@ -9,7 +9,7 @@ This demo will be done in a Jupyter notebook in julia.
 
 To set up:
 Install julia from julialang.org
-run 
+Run from a julia terminal
 ```
 ;add IJulia JuMP GLPK CSV
 ```
