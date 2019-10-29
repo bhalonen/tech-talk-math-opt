@@ -18,4 +18,4 @@ then run
 using IJulia; notebook()
 ```
 choose to install jupyter.
-navigate to the folder that has the s=Sudoko.ipynb and open it
+navigate to the folder that has the Sudoko.ipynb and open it
