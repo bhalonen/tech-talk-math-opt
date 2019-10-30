@@ -11,7 +11,7 @@ To set up:
 Install julia from julialang.org
 Run from a julia terminal
 ```
-;add IJulia JuMP GLPK CSV
+]add IJulia JuMP GLPK CSV
 ```
 then run
 ```
