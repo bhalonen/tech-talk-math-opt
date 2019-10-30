@@ -6,3 +6,16 @@ Math optimization makes sense when you have many (thousands potentially) simple 
 
 
 This demo will be done in a Jupyter notebook in julia.
+
+To set up:
+Install julia from julialang.org
+Run from a julia terminal
+```
+]add IJulia JuMP GLPK CSV
+```
+then run
+```
+using IJulia; notebook()
+```
+choose to install jupyter.
+navigate to the folder that has the Sudoko.ipynb and open it
